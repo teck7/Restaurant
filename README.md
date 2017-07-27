@@ -2,6 +2,7 @@
 This is a Restaurant CLI application that allow users to view menus, order food & drinks, customise orders and pay bills.Coder This application was written to meet Coder Academy Exam requirements.
 
 This file cha_seven.rb contain all reuqired codes for meeting all criteria and brief set out as followed;
+
 ---------------------------------------------------------------------------------------------------------
 ## Restaurant
 
